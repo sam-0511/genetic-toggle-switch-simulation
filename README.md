@@ -7,7 +7,7 @@ A simulation of the bistable genetic toggle switch based on
 Gardner et al. (2000, Nature) using ordinary differential equations.
 
 ## What is a Toggle Switch?
-Two genes mutually repress each other — whoever starts stronger, 
+Two genes mutually repress each other and  whoever starts stronger, 
 wins and stays dominant. This is called bistability.
 
 ## The Math
